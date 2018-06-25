@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruchit Mehta / Academic Site"
+title                    : "Ruchit's site"
 title_separator          : "-"
-name                     : &name "Ruchit Mehta"
-description              : &description "personal description"
+name                     : &name "Ruchit Mehta, Ph.D."
+description              : #&description "personal description"
 url                      : https://ruchitmehta87.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ruchitmehta87/ruchitmehta87.github.io"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ruchit Mehta, Ph.D."
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Biography coming soon"
+  location         : "San Jose, CA"
+  employer         : "Western Digital"
+  googlescholar    : "https://scholar.google.com/citations?user=RCTFig4AAAAJ&hl=en"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -97,14 +97,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/ruchitmehta/"
+  orcid            : " https://orcid.org/0000-0003-2673-5809 "
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
