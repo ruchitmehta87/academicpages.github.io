@@ -24,8 +24,9 @@ Work experience
   * Define electrical design rules (EDR), estimate CMOS performance targets and drive process yield by interfacing with foundry
   
 *	Thin Films Engineer, Intel Corporation (2016 – 2017)
-  * Optimize high volume manufacturing of nanoscale ALD thin films using design of experiments, model-based problem solving and statistical process control
-  * Drive quality assurance to meet ISO 9001 standards, in addition to training of new engineers across world-wide Intel fabs 
+  * Optimize high volume manufacturing of nanoscale ALD thin films using design of experiments
+  * Stabilize process yield using model-based problem solving and statistical process control
+  * Drive quality assurance to meet ISO 9001 standards along with training of new engineers across world-wide Intel fabs 
   
 Skills
 ======
