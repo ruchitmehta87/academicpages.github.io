@@ -19,9 +19,9 @@ Education
 Work experience
 ======
 * Staff Engineer, Western Digital (Milpitas)                                    Dec 2017 - present
-  * Optimization of CMOS performance through process/device co-development for meeting 3D NAND system level metrics
+  * CMOS performance optimization through process/device co-development for meeting 3D NAND system level metrics
   * Tracking mass production process variation to feedback into active and passive device models 
-  * Define electrical design rules (EDR), estimate CMOS performance targets and drive process yield improvement by interfacing with foundry
+  * Define electrical design rules (EDR), estimate CMOS performance targets and drive process yield by interfacing with foundry
   
 *	Thin Films Engineer, Intel Corporation (Hillsboro)                Aug 2016 – Dec 2017
   * Optimize high volume manufacturing of nanoscale ALD thin films using design of experiments, model-based problem solving and statistical process control
