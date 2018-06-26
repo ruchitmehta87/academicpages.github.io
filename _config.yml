@@ -82,7 +82,7 @@ author:
   avatar           : "profile.png"
   bio              : "Biography coming soon"
   location         : "San Jose, CA"
-  employer         : "Western Digital"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=RCTFig4AAAAJ&hl=en"
   email            : 
   uri              :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
