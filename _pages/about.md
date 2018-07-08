@@ -19,7 +19,7 @@ This is the front page of a website that is powered by the [academicpages templa
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
 | Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
+|:--------:|:-------:|:--------:|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
 |-----------------------------|
