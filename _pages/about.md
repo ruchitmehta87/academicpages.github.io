@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 <br/><img src='/images/500x300.png'> 
 
-| Entry            | Item   |                                                              |
+                                                           
 | :--------:         | :------: | :------------------------------------------------------------: |
 | <img src='/images/500x300.png'>    | asdasdas dasssssss asdasd asd aaasdasdasd asdasdsad asdads  | Description of the item in the list                          |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
